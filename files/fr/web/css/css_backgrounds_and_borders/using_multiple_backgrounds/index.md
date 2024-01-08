@@ -1,4 +1,4 @@
----
+12---
 title: Utiliser plusieurs arrière-plans
 slug: Web/CSS/CSS_backgrounds_and_borders/Using_multiple_backgrounds
 ---
